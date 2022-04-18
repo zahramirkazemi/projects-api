@@ -4,13 +4,13 @@
         "id": 0,
         "question": "what is my country?",
         "options": [ "tehran", "birjand", "rasht", "zanjan"],
-        "Answer": "tehran"
+        "answer": "tehran"
       },      
       {
         "id": 1,
         "question": "what is my favorit food?",
         "options": [ "bergur", "pizza", "sea-food", "none"],
-        "Answer": "pizza"
+        "answer": "pizza"
       }
     ]
 }
