@@ -2,15 +2,9 @@
     "Question": [
       {
         "id": 0,
-        "question": "what is my country?",
-        "options": [ "tehran", "birjand", "rasht", "zanjan"],
-        "answer": "tehran"
-      },      
-      {
-        "id": 1,
-        "question": "what is my favorit food?",
-        "options": [ "bergur", "pizza", "sea-food", "none"],
-        "answer": "pizza"
-      }
+        "question": "What are the three types of JavaScript errors?",
+        "options": [ "Parse Errors, Syntax Errors and Runtime Errors.", "Loading Errors, Runtime Errors and Logic Errors.", "Syntax Errors, Logic Errors and Loading Errors.", "Bad Errors, Very Bad Errors, and Fatal Errors."],
+        "answer": "Parse Errors, Syntax Errors and Runtime Errors."
+      },     
     ]
 }
