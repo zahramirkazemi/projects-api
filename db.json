@@ -3,15 +3,51 @@
     "Question": [
       {
         "id": 0,
-        "question": "what is my country?",
-        "options": [ "tehran", "birjand", "rasht", "zanjan"],
-        "answer": "tehran"
+        "question": "What are the three types of JavaScript errors?",
+        "options": [ "Parse Errors, Syntax Errors and Runtime Errors.", "Loading Errors, Runtime Errors and Logic Errors.", "Syntax Errors, Logic Errors and Loading Errors.", "Bad Errors, Very Bad Errors, and Fatal Errors."],
+        "answer": "Parse Errors, Syntax Errors and Runtime Errors."
       },      
       {
         "id": 1,
-        "question": "what is my favorit food?",
-        "options": [ "bergur", "pizza", "sea-food", "none"],
-        "answer": "pizza"
+        "question": "What is a promise?",
+        "options": [ "An object that represents a possible future value.", "An object that's used for deferred and asynchronous computations.", "A proxy for a value that will eventually become available.", "All of the above."],
+        "answer": "A proxy for a value that will eventually become available."
+      },      
+      {
+        "id": 2,
+        "question": "Which is NOT a data structure in JavaScript?",
+        "options": [ "Object", "Array", "Set in ES2015", "Trie"],
+        "answer": "Set in ES2015"
+      },      
+      {
+        "id": 3,
+        "question": "Which of the following values is truthy?",
+        "options": [ "0", "(empty string)", "1", "undefined"],
+        "answer": "(empty string)"
+      },      
+      {
+        "id": 4,
+        "question": "What is an IIFE?",
+        "options": [ "Immediately Iterable Function Evaluation", "Immediately Invoked Function Expression", "Initially Integrated Functional Element", "Internally Indexed File Extension"],
+        "answer": "Immediately Iterable Function Evaluation"
+      },      
+      {
+        "id": 5,
+        "question": "In React, what method is used to change state?",
+        "options": [ "changeState()", "onChange()", "setState()", "stateSet()"],
+        "answer": "onChange()"
+      },      
+      {
+        "id": 6,
+        "question": "How is let different from var?",
+        "options": [ "let is block scoped.", "let isn't hoisted.", "let can't be redeclared.", "All of the above."],
+        "answer": "let can't be redeclared."
+      },      
+      {
+        "id": 7,
+        "question": "What is a static method?",
+        "options": [ "A function that exists on an instance, not a class.", "A method that only takes one argument.", "A function that exists on a class, not an instance.", "None of the above."],
+        "answer": "A method that only takes one argument."
       }
     ]
 }
